@@ -1,4 +1,6 @@
 "use strict";
+
+// Array
 const friends = ["Michael", "Steven", "Bob"];
 console.log(friends);
 
